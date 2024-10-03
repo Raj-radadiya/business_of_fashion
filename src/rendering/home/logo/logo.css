@@ -1,0 +1,39 @@
+.logo{
+    height: 126px;
+    width: 274px;
+}
+.main_logo{
+    justify-content: center;
+    text-align: center;
+}
+.small_text{
+    font-size: 14px;
+    text-align: center  ;
+    /* margin-bottom: 10px; */
+}
+.start_trial{
+    background-color: #ebbc00;
+}
+
+.start_trial p{
+    padding: 15px 0;
+    font-size: 16px;
+}
+.trial_contain {
+    display: flex;
+    justify-content: space-between;
+    /* gap: 250px; */
+    align-items: center;
+    padding: 5px 0;
+}
+.trial_contain p{
+    font-family: Chronicle Display, Times New Roman, Times, Georgia, serif;
+font-size: 18px;
+}
+.trial{
+    padding: 10px 40px;
+    color: black;
+    border:  none;
+    font-size: 14px;
+    font-weight: 600;
+}

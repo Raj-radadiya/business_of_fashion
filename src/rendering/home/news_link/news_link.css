@@ -1,0 +1,271 @@
+.main_podcast {
+    /* width: 100%; */
+    margin-top: 20px;
+}
+
+.main_podcast h3 {
+    font-size: 50px;
+}
+
+.main_podcast p {
+    font-size: 24px;
+    padding-top: 10px;
+}
+.article_name{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.p_photo {
+    /* width: 100%; */
+}
+
+.p_photo img {
+    width: 100%;
+    padding-top: 10px;
+}
+
+.article {
+    max-width: 670px;
+    margin: 0 auto;
+}
+
+.article_color {
+    color: gray;
+    padding-top: 5px;
+}
+
+.music_player {
+    background-color: #f1f4f4;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+    padding: 7px;
+    border-radius: 5px;
+}
+.small{
+    padding-bottom: 50px;
+}
+.photo_radio{
+    width: 10%;
+}
+.photo_radio img{
+    width: 66px;
+    height: 66px;
+    border-radius: 5px;
+}
+.radio_disc{
+    width: 90%;
+}
+
+.article i {
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+.article_background {
+    padding: 20px 0 0;
+}
+
+.article_background h3 {
+    font-size: 24px;
+    margin: 44px 0 24px 0;
+}
+
+.article_background p {
+    padding: 10px 0 0 0;
+    font-size: 18px;
+}
+
+.article_Key_Insights {
+    padding: 10px 0;
+}
+
+.article_Key_Insights h3 {
+    font-size: 24px;
+    margin: 44px 0 24px 0;
+}
+
+.article_Key_Insights li {
+    padding: 20px 0 0 0;
+    /* list-style: ; */
+    font-size: 18px;
+}
+
+.article_Additional_Resources {
+    padding: 10px 0;
+}
+
+.article_Additional_Resources h3 {
+    margin: 44px 0 24px 0;
+    font-size: 24px;
+}
+
+.article_Additional_Resources a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.article_Additional_Resources li {
+    font-size: 18px;
+    padding: 20px 0 0 0;
+}
+
+.see_all_coments {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.see_all_coments button {
+    padding: 10px 20px;
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.about_auther {
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.auther_1 {
+    /* width: 25%; */
+    width: calc(25% - 20px);
+}
+
+.auther_2 {
+    /* width: 50%; */
+    width: calc(50% - 20px);
+}
+
+.auther_3 {
+    /* width: 25%; */
+    width: calc(25% - 20px);
+}
+
+.auther_discription {
+    display: flex;
+    gap: 30px;
+    border-bottom: 1px solid gray;
+}
+
+.auther_img {
+    width: 10%;
+    /* justify-content: center; */
+    /* text-align: center; */
+}
+
+.auther_img img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-top: 10px;
+    align-items: center;
+
+}
+
+.auther_2 h3 {
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+}
+
+.auther_disc {
+    padding: 10px 0 20px 0;
+}
+
+.auther_disc h4 {
+    padding-bottom: 7px;
+}
+
+.auther_disc p {
+    font-size: 16px;
+}
+
+.auther_3_line {
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+}
+
+.auther_3_text {
+    padding: 20px 0;
+}
+
+.auther_3_text p {
+    padding-bottom: 5px;
+}
+
+.hr {
+    border: 2px solid black;
+}
+.marketing{
+    /* border-bottom: 1px solid black; */
+}
+
+.marketing_body {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.marketing_cards {
+    width: calc(25% - 30px);
+}
+
+.marketing_img {
+    width: 100%;
+}
+
+.marketing_img img {
+    width: 100%;
+    height: 145px;
+    padding-bottom: 20px;
+}
+
+.marketing_discription h5 {
+    font-size: 21px;
+    font-weight: 300;
+    padding-bottom: 20px;
+}
+
+.marketing_title {
+    padding: 30px 0;
+}
+
+.marketing_title h3 {
+    font-size: 35px;
+}
+
+.marketing_title p {
+    padding-top: 20px;
+    font-size: 16px;
+}
+
+.marketing_btn {
+    justify-content: center;
+    display: flex;
+    margin: 50px 0;
+    /* border-bottom: 1px solid black; */
+}
+
+.marketing_btn button {
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+    /* border: 1px solid black; */
+}
+.blrder{
+    border-bottom: 2px solid black;
+}
+.bac_color{
+    background-color: #eaeaea;
+}

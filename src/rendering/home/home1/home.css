@@ -1,0 +1,64 @@
+.main_body{
+    display: flex;
+    gap: 30px;
+}
+.main_left{
+    width: 80%;
+}
+.main_left h1{
+    font-size: 44px;
+    margin: 15px 0;
+    font-family: chro;
+}
+.main_left img{
+    width: 100%;
+}
+.read{
+    margin:  10px 0;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed black;
+}
+.read a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+.read p{
+    display: inline;
+    padding-left: 10px;
+    font-size: 17px;
+}
+.main_flex{
+    padding: 15px 0;
+}
+.flex_left{
+    width: 50%;
+}
+.flex_right{
+    width: 50%;
+}
+.flex_left h3{
+    font-size: 30px;
+    padding: 15px 0;
+}
+.flex_left p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.flex_right p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.flex_right h3{
+    font-size: 30px;
+    padding: 15px 0;
+}
+.main_right{
+    width: 20%;
+}
+.flex_home{
+    display: flex;
+      gap: 30px;
+}
