@@ -204,9 +204,6 @@
 .hr {
     border: 2px solid black;
 }
-.marketing{
-    /* border-bottom: 1px solid black; */
-}
 
 .marketing_body {
     display: flex;
